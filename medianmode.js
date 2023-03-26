@@ -7,7 +7,7 @@ function  mmm(n,arr){
         sum=sum+arr[i]
     }
     bag=bag+Math.floor(sum/n)+" "
-    //console.log(bag)
+    //console.log(baag)
   
     arr.sort(function(a,b){
         return a-b
